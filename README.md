@@ -1,1 +1,3 @@
-parallaz-pure-css
+parallax-pure-css
+
+*use css3
