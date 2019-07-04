@@ -1,3 +1,3 @@
 parallax-pure-css
 
-*use css3
+example https://codepen.io/ardhichoiruddin/pen/YovgMy?editors=1100
